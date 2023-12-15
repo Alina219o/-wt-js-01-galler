@@ -63,5 +63,3 @@ const galleryItems = [
       description: 'Автомобільний рух',
     },
   ];
-  
-  export { galleryItems };
